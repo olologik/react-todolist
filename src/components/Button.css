@@ -1,0 +1,14 @@
+.btn {
+  position: absolute;
+  right: 5px;
+  top: 36px;
+  background-color: #536dff;
+  border-radius: 50px;
+  border: none;
+  padding: 15px;
+  line-height: 0;
+}
+.btn img {
+  height: 16px;
+  width: 16px;
+}
